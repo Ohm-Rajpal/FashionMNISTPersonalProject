@@ -1,7 +1,5 @@
 # FashionMNISTPersonalProject
-This is my take on the MNIST fashion dataset
-
-I created a Deep Learning project that predicts the class of a fashion item using computer vision
+I created a Deep Learning project that predicts the class of a fashion item using computer vision trained on Fashion MNIST
 
 Here is the workflow of what I accomplished:
 
